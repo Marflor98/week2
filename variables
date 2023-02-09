@@ -1,0 +1,4 @@
+val myInt myAge = 24
+var myDouble = averageAge 30 24
+val testNumber = evenOdd testNumber modulo 2
+var Answer = 0
