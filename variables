@@ -1,10 +1,10 @@
-val myAge: Int = 24
-var averageAge: Double = 24.0
-averageAge = (myAge + 30) / 2.0
-fun main(){
-
-    var testNumber: Int = 10
-    var evenOdd: Int = testNumber % 2
-    println(evenOdd)
-
+fun main() {
+    val myAge: Int = 24
+    var averageAge: Double = 24.0
+    averageAge = (myAge + 30) / 2.0
+    val testNumber: Int = 6
+    val evenOdd: Int = testNumber % 2
+    var answer: Int = 0
+    val result = answer ++ +10 *10 >3
+    println("result")
 }
