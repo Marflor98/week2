@@ -1,4 +1,10 @@
-const val myInt myAge = 24
-var myDouble = averageAge 30 24
-const val testNumber = evenOdd testNumber modulo 2
-var sum Answer = 0 + i++
+val myAge: Int = 24
+var averageAge: Double = 24.0
+averageAge = (myAge + 30) / 2.0
+fun main(){
+
+    var testNumber: Int = 10
+    var evenOdd: Int = testNumber % 2
+    println(evenOdd)
+
+}
