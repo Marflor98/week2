@@ -1,1 +1,1 @@
-var Int friendsCount > 500 
+var friendsCount: 
